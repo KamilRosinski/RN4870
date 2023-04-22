@@ -142,8 +142,8 @@
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
-        (xy 2 7.6)
-        (xy 6 7.6)
+        (xy 2 7.2)
+        (xy 6 7.2)
         (xy 6 0)
         (xy -6 0)
         (xy -6 4)
